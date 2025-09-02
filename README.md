@@ -5,9 +5,9 @@ lab03.branch
 1. lab1 
 2. lab 2
 3. lab 3
-+lab1
-+lab2
-+lab3
+  *lab1
+   *lab2
+   *lab3
 -lab1
 -lab2
 -lab3
