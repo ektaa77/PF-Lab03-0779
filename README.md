@@ -8,7 +8,5 @@ lab03.branch
   *lab1
    *lab2
    *lab3
--lab1
--lab2
--lab3
+   **programing fundamentals**
 _lab1 PF for now non understandable_
